@@ -1,8 +1,14 @@
-# loop_tap_tutorial
+# Loop Tap Game Tutorial
 
-A new Flutter project.
+[Watch Tutorial](https://youtu.be/DFBs8oe-fJM)
 
-## Getting Started
+A Hypercasual Game in Flutter.
+The inspiration came from the ridiculously addictive time waster game coogyloop and a recent addition looptap. 
+The basic idea of the game is you only need to tap when the ball is inside the colored area in  on the loop to score the point.
+
+<img src="./preview.png" height="400">
+
+## Getting Started With Flutter
 
 This project is a starting point for a Flutter application.
 
